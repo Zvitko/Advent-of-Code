@@ -1,0 +1,12 @@
+First Column - Opponents Played Hand
+<A> for Rock, <B> for Paper, and <C> for Scissors.
+
+Second Column - Your Played Hand
+<X> for Rock, <Y> for Paper, and <Z> for Scissors.
+
+Var:
+Total_Score - Sum of your score for each round
+Shape_Selected - Rock = 1, Paper = 3, Scissors = 3
+Round_Outcome - 0 if you lose / +3 if draw / +6 if you win
+
+
